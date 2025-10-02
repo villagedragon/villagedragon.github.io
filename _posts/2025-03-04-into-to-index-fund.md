@@ -4,7 +4,6 @@ title: Introduction to Index Fund
 custom_css: article.css
 include_mathjax: true
 ---
-
 ## Introduction ##
 
 In the previous article - [How to Invest 2000 Dollars in the Optimal Way? - Part I ](https://littlemissdragon.github.io/blog/2025/01/20/how-to-invest-2000-dollars-in-the-optimal-way), we learned about portfolio diversification through different nations. As a continuation of this series, next we will explore diversification through different asset classes, such as bond, index fund, stock, real estate, etc.. From this article forward, we will introduce one asset class in every article till we have enough knowledge to develop a diversified portfolio with the maximum advantage: low risk and high return.

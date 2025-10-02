@@ -1,3 +1,9 @@
+---
+layout: article
+title: What percentage of your wealth can be invested into an investor visa?
+custom_css: article.css
+include_mathjax: true
+---
 If you are considering investing in an investor visa, what percentage of your wealth can be invested, in order to gain more advantage than the current state?
 
 ## Define the problem ##
@@ -36,7 +42,7 @@ Now let us visualize a specific example of section 1. Say you have $62,000$ USD 
 
 
     
-![png](/assets/images/2025-02-12-what-percentage-of-your-wealth-can-be-invested-into-an-investor-visa_files/2025-02-12-what-percentage-of-your-wealth-can-be-invested-into-an-investor-visa_5_0.png)
+![png](/assets/images/2025-02-12-what-percentage-of-your-wealth-can-be-invested-into-an-investor-visa_files/2025-02-12-what-percentage-of-your-wealth-can-be-invested-into-an-investor-visa_6_0.png)
     
 
 
@@ -72,7 +78,7 @@ Note: Once you have lived in the foreign country longer than T years and you are
 
 
     
-![png](/assets/images/2025-02-12-what-percentage-of-your-wealth-can-be-invested-into-an-investor-visa_files/2025-02-12-what-percentage-of-your-wealth-can-be-invested-into-an-investor-visa_9_0.png)
+![png](/assets/images/2025-02-12-what-percentage-of-your-wealth-can-be-invested-into-an-investor-visa_files/2025-02-12-what-percentage-of-your-wealth-can-be-invested-into-an-investor-visa_10_0.png)
     
 
 
